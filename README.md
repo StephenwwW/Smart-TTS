@@ -51,4 +51,4 @@ Smart-TTS 是一款為 Chrome 瀏覽器設計的智慧型文字轉語音（Text-
 
 ##  授權
 
-本專案採用 [MIT License](LICENSE) 進行授權。
+本專案採用 [MIT License](Smart-TTS/LICENSE) 進行授權。
