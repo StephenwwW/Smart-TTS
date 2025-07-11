@@ -1,4 +1,3 @@
-<img width="870" height="299" alt="image" src="https://github.com/user-attachments/assets/75e7d2fd-e947-4176-931e-a8714e171390" /># Smart-TTS: 智慧型雙語朗讀擴充功能
 
 ![功能截圖](images/screenshot.png)
 
