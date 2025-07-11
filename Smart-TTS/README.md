@@ -1,4 +1,4 @@
-# Smart-TTS: 智慧型雙語朗讀擴充功能
+<img width="870" height="299" alt="image" src="https://github.com/user-attachments/assets/75e7d2fd-e947-4176-931e-a8714e171390" /># Smart-TTS: 智慧型雙語朗讀擴充功能
 
 ![功能截圖](images/screenshot.png)
 
@@ -51,4 +51,4 @@ Smart-TTS 是一款為 Chrome 瀏覽器設計的智慧型文字轉語音（Text-
 
 ##  授權
 
-本專案採用 [MIT License](LICENSE) 進行授權。
+本專案採用 [MIT License](Smart-TTS/LICENSE) 進行授權。
