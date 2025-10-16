@@ -1,7 +1,7 @@
 # Smart-TTS
 
 <div align="center">
-一款為 Chrome 瀏覽器設計的智慧型文字轉語音（TTS）擴充功能，專注於提供高品質的日文與英文朗讀體驗。
+A smart TTS extension for Chrome that offers a high-quality listening experience in Japanese and English.
 </div>
 
 [English](#english) | [中文](#中文)
