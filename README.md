@@ -19,7 +19,7 @@
 
 ### User Interface
 
-![Application Demo GIF](images/usage_demo.gif)
+![Screenshot](images/screenshot.png)
 
 ### Setup & Installation
 
@@ -79,7 +79,7 @@ This project is released under the [MIT License](LICENSE).
 
 ### 軟體截圖
 
-![操作程式 GIF 動畫](images/usage_demo.gif)
+![軟體截圖](images/screenshot.png)
 
 ### 環境設定與安裝
 
